@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>😎 Weerawut Chaiyasomboon</title>
+    <link>https://superkookai.github.io/</link>
+    <description>Recent content on 😎 Weerawut Chaiyasomboon</description>
+    <generator>Hugo -- 0.154.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://superkookai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://superkookai.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://superkookai.github.io/about/</guid>
+      <description>&lt;div style=&#34;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin: 20px 0;
+  flex-wrap: wrap;
+&#34;&gt;
+  &lt;img
+    src=&#34;https://superkookai.github.io/images/kai2.jpeg&#34;
+    alt=&#34;Profile image&#34;
+    width=&#34;180&#34;
+    style=&#34;border-radius: 20px; flex-shrink: 0;&#34;
+  &gt;
+  &lt;div style=&#34;min-width: 220px;&#34;&gt;
+    &lt;div style=&#34;
+      font-size: 2.25rem;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 6px;
+    &#34;&gt;
+      👋 Hi, I&#39;m Weerawut (Kai)
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;
+  background: color-mix(in srgb, var(--theme) 92%, var(--primary) 8%);
+  color: var(--primary);
+  padding: 30px;
+  border-radius: 20px;
+&#34;&gt;
+&lt;strong&gt;Me in short 😎&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+I am graduated ⚙️ &lt;em&gt;B. Mechanical engineering&lt;/em&gt;, then I was working about ⏰ &lt;em&gt;Project management&lt;/em&gt; to build factories in Agro business [Animal Feed Mill, Corn Seed Plant, Rice mill, etc.]. I am managing Projects from Greenfield, Brownfield, or even Renovate. Working on Projects more than 20 years make me have a chance to meet many levels of people, from the workers to CEO of the companies. It is very fun to work like that beside seeing many people but also can going to many places, not only many provinces in Thailand but sometime other countries. 
+&lt;br&gt;&lt;br&gt;Anyway, during working I also I have a hobby to 👨🏻‍💻 &lt;em&gt;Programming&lt;/em&gt;, so then it makes me get back to study again in 👨‍🎓 &lt;em&gt;MS. Web Engineering and mobile application development&lt;/em&gt;, this course make me know how to do &lt;em&gt;Software Development&lt;/em&gt; from Requirement analysis, UXUI, Prototyping, Implementing, Testing, and Launching. In addition, I am a big fan of 🍎 &lt;em&gt;Apple&lt;/em&gt; so it end up to let me love to build App for Apple Platform for particular.
+&lt;br&gt;&lt;br&gt;
+👉 💻 &lt;a href=&#34;https://www.notion.so/weerawut-kai-dev/What-do-I-know-about-Software-development-15f7734c924c80f18731d11051b798d1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+What do I know about Software Engineering?
+&lt;/a&gt;
+&lt;br&gt;
+👉 📊 &lt;a href=&#34;https://github.com/superkookai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+https://github.com/superkookai
+&lt;/a&gt;
+&lt;br&gt;
+👉 📨 &lt;a href=&#34;mailto:weerawut@live.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+weerawut@live.com
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;-highlight-skills&#34;&gt;⚡️⚡️⚡️ Highlight Skills&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Skill&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Years&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Project Management (Mechanical)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&amp;gt; 20&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;SwiftUI - iOS, macOS, Apple platform&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Backend (FastAPI, Firebase)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI/LLM - OpneAI/Gemini&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Postman/Github&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Others (Embedded PlatformIO)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
